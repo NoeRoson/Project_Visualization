@@ -1,0 +1,819 @@
+Año,Trimestre,Mes,Provincia,Edad_victima,Edad_agresor,Victimas_mortales
+2009,Primero,Febrero,Granada,51-60 años,61-70 años,1
+2009,Primero,Febrero,Huelva,31-40 años,31-40 años,1
+2009,Primero,Febrero,Sevilla,21-30 años,21-30 años,1
+2009,Primero,Febrero,Madrid,21-30 años,31-40 años,1
+2009,Primero,Febrero,Madrid,31-40 años,31-40 años,1
+2009,Primero,Marzo,Málaga,41-50 años,41-50 años,1
+2009,Primero,Marzo,Santa Cruz de Tenerife,31-40 años,41-50 años,1
+2009,Primero,Marzo,Tarragona,21-30 años,31-40 años,1
+2009,Primero,Marzo,Castellón/Castelló,41-50 años,41-50 años,1
+2009,Primero,Marzo,Valencia/València,61-70 años,51-60 años,1
+2009,Primero,Marzo,Bizkaia,41-50 años,41-50 años,1
+2009,Segundo,Abril,Granada,71-84 años,71-84 años,1
+2009,Segundo,Abril,Cáceres,51-60 años,61-70 años,1
+2009,Segundo,Mayo,Almería,41-50 años,41-50 años,1
+2009,Segundo,Mayo,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2009,Segundo,Mayo,Santa Cruz de Tenerife,41-50 años,41-50 años,1
+2009,Segundo,Mayo,Barcelona,18-20 años,21-30 años,2
+2009,Segundo,Mayo,Barcelona,31-40 años,51-60 años,1
+2009,Segundo,Mayo,Alicante/Alacant,18-20 años,21-30 años,1
+2009,Segundo,Mayo,Castellón/Castelló,31-40 años,31-40 años,1
+2009,Segundo,Mayo,Gipuzkoa,31-40 años,31-40 años,1
+2009,Segundo,Junio,Las Palmas,51-60 años,51-60 años,1
+2009,Segundo,Junio,Barcelona,31-40 años,21-30 años,1
+2009,Segundo,Junio,Alicante/Alacant,31-40 años,41-50 años,1
+2009,Segundo,Junio,Madrid,21-30 años,21-30 años,1
+2009,Segundo,Junio,Madrid,71-84 años,71-84 años,1
+2009,Tercero,Julio,Málaga,51-60 años,51-60 años,1
+2009,Tercero,Julio,Sevilla,51-60 años,51-60 años,1
+2009,Tercero,Julio,Toledo,31-40 años,21-30 años,1
+2009,Tercero,Julio,A Coruña,31-40 años,41-50 años,1
+2009,Tercero,Julio,Murcia,41-50 años,61-70 años,1
+2009,Tercero,Julio,Ceuta,21-30 años,31-40 años,1
+2009,Tercero,Agosto,Málaga,61-70 años,61-70 años,1
+2009,Tercero,Agosto,Barcelona,21-30 años,18-20 años,1
+2009,Tercero,Agosto,Barcelona,41-50 años,41-50 años,1
+2009,Tercero,Agosto,A Coruña,71-84 años,71-84 años,1
+2009,Tercero,Agosto,Ourense,18-20 años,31-40 años,1
+2009,Tercero,Agosto,Murcia,21-30 años,31-40 años,1
+2009,Tercero,Septiembre,Almería,41-50 años,51-60 años,1
+2009,Tercero,Septiembre,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2009,Tercero,Septiembre,Ávila,21-30 años,21-30 años,1
+2009,Tercero,Septiembre,Barcelona,21-30 años,31-40 años,1
+2009,Tercero,Septiembre,Alicante/Alacant,31-40 años,41-50 años,1
+2009,Tercero,Septiembre,Valencia/València,31-40 años,31-40 años,1
+2009,Cuarto,Octubre,Córdoba,51-60 años,61-70 años,1
+2009,Cuarto,Octubre,Málaga,21-30 años,21-30 años,1
+2009,Cuarto,Octubre,Illes Balears,31-40 años,41-50 años,1
+2009,Cuarto,Octubre,Tarragona,31-40 años,31-40 años,1
+2009,Cuarto,Octubre,Tarragona,41-50 años,51-60 años,1
+2009,Cuarto,Octubre,Alicante/Alacant,51-60 años,61-70 años,1
+2009,Cuarto,Noviembre,La Rioja,31-40 años,31-40 años,1
+2009,Cuarto,Diciembre,Almería,61-70 años,61-70 años,1
+2009,Cuarto,Diciembre,Huelva,41-50 años,21-30 años,1
+2009,Cuarto,Diciembre,Málaga,21-30 años,21-30 años,1
+2009,Cuarto,Diciembre,Valencia/València,71-84 años,>=85 años,1
+2009,Cuarto,Diciembre,Madrid,18-20 años,31-40 años,1
+2010,Primero,Enero,Sevilla,41-50 años,51-60 años,1
+2010,Primero,Enero,Illes Balears,41-50 años,51-60 años,1
+2010,Primero,Enero,Madrid,31-40 años,31-40 años,1
+2010,Primero,Febrero,Almería,21-30 años,31-40 años,1
+2010,Primero,Febrero,Asturias,51-60 años,51-60 años,1
+2010,Primero,Febrero,Tarragona,31-40 años,41-50 años,1
+2010,Primero,Febrero,Madrid,21-30 años,31-40 años,1
+2010,Primero,Marzo,Almería,41-50 años,41-50 años,1
+2010,Primero,Marzo,Huelva,51-60 años,51-60 años,1
+2010,Primero,Marzo,Santa Cruz de Tenerife,31-40 años,61-70 años,1
+2010,Primero,Marzo,Burgos,21-30 años,31-40 años,1
+2010,Primero,Marzo,Valladolid,51-60 años,51-60 años,1
+2010,Primero,Marzo,Barcelona,31-40 años,31-40 años,1
+2010,Primero,Marzo,Castellón/Castelló,51-60 años,61-70 años,1
+2010,Segundo,Abril,Málaga,51-60 años,71-84 años,1
+2010,Segundo,Abril,Zaragoza,21-30 años,41-50 años,1
+2010,Segundo,Abril,Asturias,41-50 años,31-40 años,1
+2010,Segundo,Abril,Asturias,51-60 años,51-60 años,1
+2010,Segundo,Abril,Burgos,51-60 años,51-60 años,1
+2010,Segundo,Abril,Alicante/Alacant,21-30 años,31-40 años,1
+2010,Segundo,Abril,Valencia/València,51-60 años,41-50 años,1
+2010,Segundo,Abril,Madrid,21-30 años,31-40 años,1
+2010,Segundo,Mayo,Sevilla,31-40 años,31-40 años,1
+2010,Segundo,Mayo,Sevilla,41-50 años,31-40 años,1
+2010,Segundo,Mayo,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2010,Segundo,Mayo,Barcelona,31-40 años,31-40 años,1
+2010,Segundo,Mayo,Girona,41-50 años,51-60 años,1
+2010,Segundo,Mayo,Murcia,61-70 años,51-60 años,1
+2010,Segundo,Junio,Almería,31-40 años,31-40 años,1
+2010,Segundo,Junio,Asturias,51-60 años,51-60 años,1
+2010,Segundo,Junio,Santa Cruz de Tenerife,41-50 años,41-50 años,1
+2010,Segundo,Junio,Girona,31-40 años,51-60 años,1
+2010,Segundo,Junio,Alicante/Alacant,51-60 años,51-60 años,1
+2010,Tercero,Julio,Cádiz,51-60 años,61-70 años,1
+2010,Tercero,Julio,Granada,41-50 años,61-70 años,1
+2010,Tercero,Julio,Zaragoza,41-50 años,41-50 años,1
+2010,Tercero,Julio,Las Palmas,21-30 años,31-40 años,1
+2010,Tercero,Julio,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2010,Tercero,Julio,Santa Cruz de Tenerife,41-50 años,51-60 años,1
+2010,Tercero,Julio,Cuenca,31-40 años,41-50 años,1
+2010,Tercero,Julio,Cuenca,61-70 años,71-84 años,1
+2010,Tercero,Julio,Barcelona,21-30 años,31-40 años,1
+2010,Tercero,Julio,Bizkaia,31-40 años,41-50 años,1
+2010,Tercero,Agosto,Girona,41-50 años,31-40 años,1
+2010,Tercero,Agosto,Lugo,41-50 años,41-50 años,1
+2010,Tercero,Septiembre,Almería,31-40 años,41-50 años,1
+2010,Tercero,Septiembre,Córdoba,21-30 años,31-40 años,1
+2010,Tercero,Septiembre,Asturias,21-30 años,21-30 años,1
+2010,Tercero,Septiembre,Palencia,41-50 años,41-50 años,1
+2010,Tercero,Septiembre,Barcelona,21-30 años,31-40 años,1
+2010,Tercero,Septiembre,Girona,31-40 años,31-40 años,1
+2010,Tercero,Septiembre,Castellón/Castelló,31-40 años,41-50 años,1
+2010,Tercero,Septiembre,A Coruña,31-40 años,51-60 años,1
+2010,Cuarto,Octubre,Granada,31-40 años,51-60 años,1
+2010,Cuarto,Octubre,Málaga,71-84 años,71-84 años,1
+2010,Cuarto,Octubre,Barcelona,41-50 años,41-50 años,1
+2010,Cuarto,Octubre,Tarragona,21-30 años,31-40 años,1
+2010,Cuarto,Octubre,Alicante/Alacant,51-60 años,51-60 años,1
+2010,Cuarto,Octubre,Madrid,41-50 años,51-60 años,1
+2010,Cuarto,Noviembre,Almería,31-40 años,41-50 años,1
+2010,Cuarto,Noviembre,Sevilla,31-40 años,31-40 años,1
+2010,Cuarto,Noviembre,Illes Balears,41-50 años,>=85 años,1
+2010,Cuarto,Noviembre,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2010,Cuarto,Noviembre,Valencia/València,51-60 años,41-50 años,1
+2010,Cuarto,Noviembre,Madrid,16-17 años,18-20 años,1
+2010,Cuarto,Noviembre,Madrid,71-84 años,71-84 años,1
+2010,Cuarto,Diciembre,Málaga,21-30 años,21-30 años,1
+2010,Cuarto,Diciembre,Ciudad Real,21-30 años,21-30 años,1
+2010,Cuarto,Diciembre,Barcelona,41-50 años,31-40 años,1
+2010,Cuarto,Diciembre,Alicante/Alacant,21-30 años,21-30 años,1
+2010,Cuarto,Diciembre,Badajoz,41-50 años,51-60 años,1
+2010,Cuarto,Diciembre,Madrid,31-40 años,41-50 años,1
+2010,Cuarto,Diciembre,Bizkaia,21-30 años,21-30 años,1
+2011,Primero,Enero,Granada,21-30 años,31-40 años,1
+2011,Primero,Enero,Jaén,41-50 años,41-50 años,1
+2011,Primero,Enero,Illes Balears,61-70 años,>=85 años,1
+2011,Primero,Enero,Las Palmas,51-60 años,41-50 años,1
+2011,Primero,Enero,Segovia,41-50 años,51-60 años,1
+2011,Primero,Enero,Ciudad Real,41-50 años,41-50 años,1
+2011,Primero,Enero,Madrid,51-60 años,41-50 años,1
+2011,Primero,Enero,Murcia,31-40 años,51-60 años,1
+2011,Primero,Febrero,Almería,21-30 años,41-50 años,1
+2011,Primero,Febrero,Almería,41-50 años,31-40 años,1
+2011,Primero,Febrero,Málaga,31-40 años,41-50 años,1
+2011,Primero,Febrero,Barcelona,21-30 años,21-30 años,1
+2011,Primero,Febrero,Tarragona,41-50 años,31-40 años,1
+2011,Primero,Febrero,Valencia/València,31-40 años,61-70 años,1
+2011,Primero,Marzo,Granada,51-60 años,51-60 años,1
+2011,Primero,Marzo,Jaén,41-50 años,41-50 años,1
+2011,Primero,Marzo,Madrid,51-60 años,51-60 años,1
+2011,Segundo,Abril,Alicante/Alacant,21-30 años,41-50 años,1
+2011,Segundo,Abril,Madrid,18-20 años,21-30 años,1
+2011,Segundo,Abril,Navarra,21-30 años,21-30 años,1
+2011,Segundo,Mayo,Almería,21-30 años,31-40 años,1
+2011,Segundo,Mayo,Almería,21-30 años,41-50 años,1
+2011,Segundo,Mayo,Córdoba,21-30 años,21-30 años,1
+2011,Segundo,Mayo,Barcelona,31-40 años,41-50 años,1
+2011,Segundo,Mayo,Girona,61-70 años,71-84 años,1
+2011,Segundo,Mayo,A Coruña,18-20 años,21-30 años,1
+2011,Segundo,Mayo,Madrid,41-50 años,31-40 años,1
+2011,Segundo,Mayo,Madrid,41-50 años,41-50 años,1
+2011,Segundo,Junio,Asturias,51-60 años,61-70 años,1
+2011,Segundo,Junio,Valencia/València,71-84 años,71-84 años,1
+2011,Tercero,Julio,Granada,18-20 años,21-30 años,1
+2011,Tercero,Julio,Zaragoza,21-30 años,21-30 años,1
+2011,Tercero,Julio,Barcelona,21-30 años,21-30 años,1
+2011,Tercero,Julio,Alicante/Alacant,21-30 años,51-60 años,1
+2011,Tercero,Julio,Valencia/València,21-30 años,31-40 años,1
+2011,Tercero,Julio,Madrid,31-40 años,51-60 años,1
+2011,Tercero,Julio,Gipuzkoa,51-60 años,41-50 años,1
+2011,Tercero,Agosto,Burgos,41-50 años,51-60 años,1
+2011,Tercero,Agosto,Madrid,61-70 años,61-70 años,1
+2011,Tercero,Agosto,Murcia,61-70 años,71-84 años,1
+2011,Tercero,Agosto,Bizkaia,31-40 años,31-40 años,1
+2011,Tercero,Septiembre,Almería,31-40 años,41-50 años,1
+2011,Tercero,Septiembre,Cádiz,61-70 años,61-70 años,1
+2011,Tercero,Septiembre,Sevilla,41-50 años,41-50 años,1
+2011,Tercero,Septiembre,Santa Cruz de Tenerife,31-40 años,51-60 años,1
+2011,Tercero,Septiembre,Castellón/Castelló,41-50 años,51-60 años,1
+2011,Tercero,Septiembre,Valencia/València,31-40 años,51-60 años,1
+2011,Cuarto,Octubre,Málaga,51-60 años,51-60 años,1
+2011,Cuarto,Octubre,Asturias,21-30 años,21-30 años,1
+2011,Cuarto,Octubre,Las Palmas,31-40 años,31-40 años,1
+2011,Cuarto,Octubre,Girona,31-40 años,41-50 años,1
+2011,Cuarto,Octubre,Alicante/Alacant,71-84 años,71-84 años,1
+2011,Cuarto,Octubre,Pontevedra,31-40 años,41-50 años,1
+2011,Cuarto,Noviembre,Zaragoza,21-30 años,51-60 años,1
+2011,Cuarto,Noviembre,Barcelona,41-50 años,41-50 años,1
+2011,Cuarto,Noviembre,Lleida,31-40 años,51-60 años,1
+2011,Cuarto,Diciembre,Almería,31-40 años,51-60 años,1
+2011,Cuarto,Diciembre,Sevilla,21-30 años,31-40 años,1
+2011,Cuarto,Diciembre,Girona,51-60 años,51-60 años,1
+2011,Cuarto,Diciembre,A Coruña,31-40 años,31-40 años,1
+2011,Cuarto,Diciembre,Madrid,31-40 años,31-40 años,1
+2011,Cuarto,Diciembre,Madrid,51-60 años,41-50 años,1
+2012,Primero,Enero,Jaén,41-50 años,51-60 años,1
+2012,Primero,Enero,Barcelona,51-60 años,21-30 años,1
+2012,Primero,Enero,Barcelona,51-60 años,51-60 años,1
+2012,Primero,Enero,Barcelona,51-60 años,61-70 años,1
+2012,Primero,Enero,Girona,21-30 años,31-40 años,1
+2012,Primero,Enero,Tarragona,31-40 años,31-40 años,1
+2012,Primero,Enero,Tarragona,41-50 años,51-60 años,1
+2012,Primero,Enero,Badajoz,71-84 años,71-84 años,1
+2012,Primero,Febrero,Valencia/València,41-50 años,41-50 años,1
+2012,Primero,Febrero,Madrid,41-50 años,31-40 años,1
+2012,Primero,Marzo,Ourense,61-70 años,71-84 años,1
+2012,Primero,Marzo,Gipuzkoa,31-40 años,21-30 años,1
+2012,Segundo,Abril,Sevilla,21-30 años,18-20 años,1
+2012,Segundo,Abril,Sevilla,51-60 años,51-60 años,1
+2012,Segundo,Abril,Las Palmas,21-30 años,31-40 años,1
+2012,Segundo,Abril,Madrid,61-70 años,>=85 años,1
+2012,Segundo,Mayo,Málaga,71-84 años,71-84 años,1
+2012,Segundo,Mayo,Ciudad Real,41-50 años,41-50 años,1
+2012,Segundo,Mayo,Alicante/Alacant,21-30 años,51-60 años,1
+2012,Segundo,Junio,Málaga,61-70 años,71-84 años,1
+2012,Segundo,Junio,Zaragoza,21-30 años,41-50 años,1
+2012,Segundo,Junio,Asturias,51-60 años,61-70 años,1
+2012,Segundo,Junio,Illes Balears,51-60 años,51-60 años,1
+2012,Segundo,Junio,Barcelona,61-70 años,61-70 años,1
+2012,Segundo,Junio,Girona,21-30 años,21-30 años,1
+2012,Segundo,Junio,Tarragona,21-30 años,31-40 años,1
+2012,Segundo,Junio,Alicante/Alacant,21-30 años,31-40 años,1
+2012,Segundo,Junio,Alicante/Alacant,31-40 años,41-50 años,1
+2012,Segundo,Junio,A Coruña,21-30 años,31-40 años,1
+2012,Tercero,Julio,Santa Cruz de Tenerife,41-50 años,41-50 años,1
+2012,Tercero,Julio,Valencia/València,51-60 años,51-60 años,1
+2012,Tercero,Julio,Madrid,51-60 años,31-40 años,1
+2012,Tercero,Agosto,Guadalajara,21-30 años,31-40 años,1
+2012,Tercero,Agosto,Madrid,31-40 años,41-50 años,1
+2012,Tercero,Septiembre,Barcelona,31-40 años,31-40 años,1
+2012,Tercero,Septiembre,Valencia/València,31-40 años,31-40 años,1
+2012,Cuarto,Octubre,Jaén,21-30 años,21-30 años,1
+2012,Cuarto,Octubre,Illes Balears,61-70 años,51-60 años,1
+2012,Cuarto,Octubre,León,21-30 años,31-40 años,1
+2012,Cuarto,Octubre,Albacete,<16 años,31-40 años,1
+2012,Cuarto,Octubre,Cuenca,31-40 años,31-40 años,1
+2012,Cuarto,Octubre,Tarragona,61-70 años,71-84 años,1
+2012,Cuarto,Noviembre,Granada,71-84 años,71-84 años,1
+2012,Cuarto,Noviembre,León,41-50 años,51-60 años,1
+2012,Cuarto,Noviembre,A Coruña,51-60 años,61-70 años,1
+2012,Cuarto,Noviembre,Madrid,18-20 años,21-30 años,1
+2012,Cuarto,Noviembre,Madrid,21-30 años,31-40 años,1
+2012,Cuarto,Noviembre,Araba/Álava,61-70 años,61-70 años,1
+2012,Cuarto,Diciembre,Barcelona,41-50 años,41-50 años,1
+2012,Cuarto,Diciembre,Barcelona,71-84 años,71-84 años,1
+2012,Cuarto,Diciembre,A Coruña,41-50 años,41-50 años,1
+2013,Primero,Enero,Albacete,21-30 años,51-60 años,1
+2013,Primero,Enero,Alicante/Alacant,31-40 años,41-50 años,1
+2013,Primero,Enero,Valencia/València,31-40 años,31-40 años,1
+2013,Primero,Enero,Madrid,31-40 años,41-50 años,1
+2013,Primero,Febrero,Zaragoza,31-40 años,31-40 años,1
+2013,Primero,Febrero,Illes Balears,41-50 años,41-50 años,1
+2013,Primero,Febrero,Santa Cruz de Tenerife,31-40 años,41-50 años,1
+2013,Primero,Febrero,Ciudad Real,21-30 años,31-40 años,1
+2013,Primero,Marzo,Sevilla,41-50 años,41-50 años,1
+2013,Primero,Marzo,Illes Balears,31-40 años,31-40 años,1
+2013,Primero,Marzo,Tarragona,31-40 años,31-40 años,1
+2013,Primero,Marzo,Alicante/Alacant,41-50 años,41-50 años,1
+2013,Primero,Marzo,Valencia/València,31-40 años,41-50 años,1
+2013,Primero,Marzo,Lugo,31-40 años,41-50 años,1
+2013,Primero,Marzo,Madrid,31-40 años,31-40 años,1
+2013,Primero,Marzo,Madrid,61-70 años,61-70 años,1
+2013,Segundo,Abril,Jaén,61-70 años,71-84 años,1
+2013,Segundo,Abril,Zaragoza,41-50 años,51-60 años,1
+2013,Segundo,Abril,Zamora,51-60 años,61-70 años,1
+2013,Segundo,Abril,Lleida,21-30 años,31-40 años,1
+2013,Segundo,Abril,Madrid,31-40 años,41-50 años,1
+2013,Segundo,Abril,Madrid,61-70 años,71-84 años,1
+2013,Segundo,Mayo,Córdoba,51-60 años,51-60 años,1
+2013,Segundo,Mayo,Jaén,51-60 años,41-50 años,1
+2013,Segundo,Mayo,Cantabria,21-30 años,31-40 años,1
+2013,Segundo,Mayo,León,18-20 años,21-30 años,1
+2013,Segundo,Mayo,Madrid,31-40 años,21-30 años,1
+2013,Segundo,Mayo,Araba/Álava,21-30 años,41-50 años,1
+2013,Segundo,Junio,Cádiz,21-30 años,21-30 años,1
+2013,Segundo,Junio,Córdoba,71-84 años,71-84 años,1
+2013,Tercero,Julio,Granada,21-30 años,31-40 años,1
+2013,Tercero,Julio,Las Palmas,31-40 años,21-30 años,1
+2013,Tercero,Agosto,Asturias,71-84 años,>=85 años,1
+2013,Tercero,Agosto,Badajoz,61-70 años,71-84 años,1
+2013,Tercero,Septiembre,Málaga,21-30 años,31-40 años,1
+2013,Tercero,Septiembre,León,21-30 años,21-30 años,1
+2013,Tercero,Septiembre,Palencia,41-50 años,41-50 años,1
+2013,Tercero,Septiembre,Guadalajara,31-40 años,31-40 años,1
+2013,Tercero,Septiembre,Valencia/València,41-50 años,41-50 años,1
+2013,Tercero,Septiembre,Ourense,51-60 años,61-70 años,1
+2013,Tercero,Septiembre,Madrid,31-40 años,41-50 años,1
+2013,Tercero,Septiembre,Madrid,41-50 años,31-40 años,1
+2013,Cuarto,Octubre,Almería,21-30 años,31-40 años,1
+2013,Cuarto,Octubre,Lleida,<16 años,18-20 años,1
+2013,Cuarto,Octubre,Alicante/Alacant,21-30 años,31-40 años,1
+2013,Cuarto,Octubre,Castellón/Castelló,51-60 años,51-60 años,1
+2013,Cuarto,Octubre,Valencia/València,41-50 años,41-50 años,1
+2013,Cuarto,Noviembre,Málaga,31-40 años,41-50 años,1
+2013,Cuarto,Noviembre,Málaga,61-70 años,61-70 años,1
+2013,Cuarto,Noviembre,Cuenca,31-40 años,41-50 años,1
+2013,Cuarto,Noviembre,Valencia/València,21-30 años,31-40 años,1
+2013,Cuarto,Noviembre,Madrid,41-50 años,31-40 años,1
+2013,Cuarto,Diciembre,Barcelona,31-40 años,31-40 años,1
+2013,Cuarto,Diciembre,Pontevedra,41-50 años,31-40 años,1
+2014,Primero,Enero,Córdoba,41-50 años,31-40 años,1
+2014,Primero,Enero,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2014,Primero,Enero,Barcelona,41-50 años,41-50 años,1
+2014,Primero,Enero,Tarragona,51-60 años,51-60 años,1
+2014,Primero,Enero,Alicante/Alacant,51-60 años,51-60 años,1
+2014,Primero,Enero,Lugo,41-50 años,51-60 años,1
+2014,Primero,Enero,Madrid,21-30 años,18-20 años,1
+2014,Primero,Febrero,Barcelona,41-50 años,41-50 años,1
+2014,Primero,Febrero,Barcelona,71-84 años,71-84 años,1
+2014,Primero,Febrero,Alicante/Alacant,51-60 años,21-30 años,1
+2014,Primero,Febrero,A Coruña,31-40 años,41-50 años,1
+2014,Primero,Febrero,Madrid,41-50 años,31-40 años,1
+2014,Primero,Marzo,Cádiz,71-84 años,71-84 años,1
+2014,Primero,Marzo,Málaga,41-50 años,41-50 años,1
+2014,Primero,Marzo,Illes Balears,31-40 años,21-30 años,1
+2014,Primero,Marzo,Valladolid,31-40 años,31-40 años,1
+2014,Primero,Marzo,Barcelona,51-60 años,51-60 años,1
+2014,Primero,Marzo,Madrid,41-50 años,41-50 años,1
+2014,Primero,Marzo,Bizkaia,31-40 años,31-40 años,1
+2014,Primero,Marzo,Melilla,51-60 años,61-70 años,1
+2014,Segundo,Abril,Cádiz,41-50 años,41-50 años,1
+2014,Segundo,Abril,Barcelona,41-50 años,41-50 años,1
+2014,Segundo,Abril,Tarragona,71-84 años,71-84 años,1
+2014,Segundo,Abril,A Coruña,41-50 años,41-50 años,1
+2014,Segundo,Abril,Lugo,61-70 años,61-70 años,1
+2014,Segundo,Mayo,Almería,31-40 años,31-40 años,1
+2014,Segundo,Mayo,Madrid,21-30 años,31-40 años,1
+2014,Segundo,Junio,Granada,51-60 años,51-60 años,1
+2014,Segundo,Junio,Illes Balears,41-50 años,41-50 años,1
+2014,Segundo,Junio,León,51-60 años,51-60 años,1
+2014,Tercero,Julio,Málaga,21-30 años,21-30 años,1
+2014,Tercero,Julio,Illes Balears,41-50 años,51-60 años,1
+2014,Tercero,Julio,Pontevedra,71-84 años,71-84 años,1
+2014,Tercero,Agosto,Almería,41-50 años,31-40 años,1
+2014,Tercero,Agosto,Málaga,31-40 años,31-40 años,1
+2014,Tercero,Agosto,Barcelona,41-50 años,41-50 años,1
+2014,Tercero,Agosto,Barcelona,41-50 años,61-70 años,1
+2014,Tercero,Agosto,Alicante/Alacant,31-40 años,31-40 años,1
+2014,Tercero,Agosto,Alicante/Alacant,>=85 años,>=85 años,1
+2014,Tercero,Agosto,Pontevedra,31-40 años,41-50 años,1
+2014,Tercero,Agosto,Madrid,31-40 años,51-60 años,1
+2014,Tercero,Septiembre,Granada,51-60 años,51-60 años,1
+2014,Tercero,Septiembre,Alicante/Alacant,71-84 años,61-70 años,1
+2014,Cuarto,Octubre,Barcelona,21-30 años,41-50 años,1
+2014,Cuarto,Octubre,Valencia/València,41-50 años,41-50 años,1
+2014,Cuarto,Noviembre,Barcelona,31-40 años,31-40 años,1
+2014,Cuarto,Noviembre,Barcelona,41-50 años,41-50 años,1
+2014,Cuarto,Noviembre,Girona,31-40 años,51-60 años,1
+2014,Cuarto,Noviembre,Madrid,31-40 años,31-40 años,1
+2014,Cuarto,Noviembre,Araba/Álava,41-50 años,41-50 años,1
+2014,Cuarto,Diciembre,Valladolid,31-40 años,41-50 años,1
+2014,Cuarto,Diciembre,Valencia/València,31-40 años,31-40 años,1
+2014,Cuarto,Diciembre,Madrid,31-40 años,51-60 años,1
+2014,Cuarto,Diciembre,Bizkaia,51-60 años,51-60 años,1
+2014,Cuarto,Diciembre,Melilla,18-20 años,31-40 años,1
+2015,Primero,Enero,Barcelona,31-40 años,41-50 años,1
+2015,Primero,Enero,Alicante/Alacant,61-70 años,51-60 años,1
+2015,Primero,Enero,Alicante/Alacant,61-70 años,61-70 años,1
+2015,Primero,Febrero,Málaga,31-40 años,51-60 años,1
+2015,Primero,Febrero,Valencia/València,31-40 años,41-50 años,1
+2015,Primero,Marzo,Málaga,21-30 años,41-50 años,1
+2015,Primero,Marzo,Lleida,21-30 años,31-40 años,1
+2015,Primero,Marzo,Alicante/Alacant,41-50 años,31-40 años,1
+2015,Primero,Marzo,Cáceres,21-30 años,21-30 años,1
+2015,Segundo,Abril,Araba/Álava,21-30 años,31-40 años,1
+2015,Segundo,Mayo,Almería,41-50 años,41-50 años,1
+2015,Segundo,Mayo,Alicante/Alacant,41-50 años,41-50 años,1
+2015,Segundo,Mayo,Ourense,61-70 años,71-84 años,1
+2015,Segundo,Mayo,Madrid,41-50 años,41-50 años,1
+2015,Segundo,Junio,Málaga,31-40 años,51-60 años,1
+2015,Segundo,Junio,Sevilla,41-50 años,51-60 años,1
+2015,Segundo,Junio,Cantabria,31-40 años,41-50 años,1
+2015,Segundo,Junio,Soria,31-40 años,31-40 años,1
+2015,Segundo,Junio,Barcelona,41-50 años,41-50 años,1
+2015,Tercero,Julio,Málaga,51-60 años,51-60 años,1
+2015,Tercero,Julio,Asturias,41-50 años,31-40 años,1
+2015,Tercero,Julio,Asturias,61-70 años,61-70 años,1
+2015,Tercero,Julio,Illes Balears,31-40 años,31-40 años,1
+2015,Tercero,Julio,Santa Cruz de Tenerife,21-30 años,31-40 años,1
+2015,Tercero,Julio,Barcelona,31-40 años,41-50 años,1
+2015,Tercero,Julio,Valencia/València,41-50 años,41-50 años,1
+2015,Tercero,Julio,Pontevedra,21-30 años,31-40 años,1
+2015,Tercero,Julio,Madrid,21-30 años,21-30 años,1
+2015,Tercero,Agosto,Granada,61-70 años,61-70 años,1
+2015,Tercero,Agosto,Jaén,41-50 años,51-60 años,1
+2015,Tercero,Agosto,Cuenca,21-30 años,21-30 años,1
+2015,Tercero,Agosto,Barcelona,41-50 años,41-50 años,1
+2015,Tercero,Agosto,Barcelona,41-50 años,51-60 años,1
+2015,Tercero,Agosto,Bizkaia,31-40 años,31-40 años,1
+2015,Tercero,Septiembre,Valencia/València,41-50 años,41-50 años,1
+2015,Tercero,Septiembre,Pontevedra,41-50 años,31-40 años,1
+2015,Cuarto,Octubre,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2015,Cuarto,Octubre,Palencia,31-40 años,41-50 años,1
+2015,Cuarto,Octubre,Pontevedra,31-40 años,31-40 años,1
+2015,Cuarto,Octubre,Pontevedra,31-40 años,51-60 años,1
+2015,Cuarto,Octubre,Pontevedra,61-70 años,51-60 años,1
+2015,Cuarto,Octubre,Murcia,21-30 años,31-40 años,1
+2015,Cuarto,Octubre,Bizkaia,31-40 años,31-40 años,1
+2015,Cuarto,Noviembre,Córdoba,21-30 años,51-60 años,1
+2015,Cuarto,Noviembre,Sevilla,41-50 años,41-50 años,1
+2015,Cuarto,Noviembre,Sevilla,41-50 años,51-60 años,1
+2015,Cuarto,Noviembre,Asturias,61-70 años,51-60 años,1
+2015,Cuarto,Noviembre,Alicante/Alacant,41-50 años,41-50 años,1
+2015,Cuarto,Noviembre,Valencia/València,41-50 años,41-50 años,1
+2015,Cuarto,Noviembre,Madrid,31-40 años,31-40 años,1
+2015,Cuarto,Diciembre,Almería,21-30 años,51-60 años,1
+2015,Cuarto,Diciembre,Granada,51-60 años,51-60 años,1
+2015,Cuarto,Diciembre,Sevilla,31-40 años,31-40 años,1
+2015,Cuarto,Diciembre,Zaragoza,41-50 años,41-50 años,1
+2015,Cuarto,Diciembre,Las Palmas,21-30 años,31-40 años,1
+2015,Cuarto,Diciembre,Alicante/Alacant,31-40 años,31-40 años,2
+2015,Cuarto,Diciembre,A Coruña,71-84 años,71-84 años,1
+2015,Cuarto,Diciembre,Pontevedra,61-70 años,61-70 años,1
+2015,Cuarto,Diciembre,Madrid,41-50 años,41-50 años,1
+2016,Primero,Enero,Asturias,41-50 años,41-50 años,1
+2016,Primero,Enero,Illes Balears,41-50 años,41-50 años,1
+2016,Primero,Enero,Guadalajara,31-40 años,31-40 años,1
+2016,Primero,Enero,Tarragona,41-50 años,51-60 años,1
+2016,Primero,Enero,Valencia/València,61-70 años,71-84 años,1
+2016,Primero,Enero,Badajoz,21-30 años,21-30 años,1
+2016,Primero,Enero,Madrid,41-50 años,31-40 años,1
+2016,Primero,Febrero,Málaga,61-70 años,61-70 años,1
+2016,Primero,Febrero,Zaragoza,31-40 años,41-50 años,1
+2016,Primero,Febrero,Valencia/València,61-70 años,71-84 años,1
+2016,Primero,Febrero,Lugo,31-40 años,21-30 años,1
+2016,Primero,Marzo,Asturias,31-40 años,41-50 años,1
+2016,Primero,Marzo,Illes Balears,18-20 años,21-30 años,1
+2016,Segundo,Abril,Salamanca,41-50 años,31-40 años,1
+2016,Segundo,Abril,Barcelona,31-40 años,41-50 años,1
+2016,Segundo,Abril,Alicante/Alacant,41-50 años,41-50 años,1
+2016,Segundo,Abril,Lugo,21-30 años,31-40 años,1
+2016,Segundo,Mayo,Zaragoza,61-70 años,61-70 años,1
+2016,Segundo,Mayo,Illes Balears,41-50 años,51-60 años,1
+2016,Segundo,Mayo,Santa Cruz de Tenerife,51-60 años,61-70 años,1
+2016,Segundo,Mayo,Madrid,21-30 años,21-30 años,1
+2016,Segundo,Junio,Sevilla,31-40 años,31-40 años,1
+2016,Segundo,Junio,Barcelona,31-40 años,51-60 años,1
+2016,Tercero,Julio,Huelva,41-50 años,41-50 años,1
+2016,Tercero,Julio,Zaragoza,21-30 años,31-40 años,1
+2016,Tercero,Julio,Burgos,41-50 años,51-60 años,1
+2016,Tercero,Julio,Castellón/Castelló,41-50 años,31-40 años,1
+2016,Tercero,Julio,Bizkaia,51-60 años,41-50 años,1
+2016,Tercero,Julio,Melilla,21-30 años,31-40 años,1
+2016,Tercero,Agosto,Illes Balears,31-40 años,31-40 años,1
+2016,Tercero,Agosto,Las Palmas,51-60 años,41-50 años,1
+2016,Tercero,Agosto,Las Palmas,51-60 años,51-60 años,1
+2016,Tercero,Agosto,Alicante/Alacant,31-40 años,31-40 años,1
+2016,Tercero,Septiembre,Illes Balears,31-40 años,21-30 años,1
+2016,Tercero,Septiembre,Barcelona,31-40 años,41-50 años,1
+2016,Cuarto,Octubre,Sevilla,21-30 años,41-50 años,1
+2016,Cuarto,Octubre,Ávila,31-40 años,31-40 años,1
+2016,Cuarto,Octubre,Salamanca,51-60 años,51-60 años,1
+2016,Cuarto,Octubre,Alicante/Alacant,71-84 años,71-84 años,1
+2016,Cuarto,Noviembre,Granada,31-40 años,31-40 años,1
+2016,Cuarto,Noviembre,Illes Balears,51-60 años,41-50 años,1
+2016,Cuarto,Noviembre,Burgos,41-50 años,51-60 años,1
+2016,Cuarto,Noviembre,León,51-60 años,51-60 años,1
+2016,Cuarto,Noviembre,Madrid,21-30 años,21-30 años,1
+2016,Cuarto,Diciembre,Las Palmas,41-50 años,31-40 años,1
+2016,Cuarto,Diciembre,Barcelona,51-60 años,61-70 años,1
+2016,Cuarto,Diciembre,Tarragona,41-50 años,41-50 años,1
+2016,Cuarto,Diciembre,A Coruña,21-30 años,31-40 años,1
+2016,Cuarto,Diciembre,Pontevedra,21-30 años,31-40 años,1
+2017,Primero,Enero,Almería,31-40 años,21-30 años,1
+2017,Primero,Enero,Toledo,31-40 años,41-50 años,1
+2017,Primero,Enero,Ourense,51-60 años,51-60 años,1
+2017,Primero,Enero,Madrid,31-40 años,18-20 años,1
+2017,Primero,Enero,Navarra,41-50 años,41-50 años,1
+2017,Primero,Febrero,Ciudad Real,41-50 años,51-60 años,1
+2017,Primero,Febrero,Toledo,21-30 años,31-40 años,1
+2017,Primero,Febrero,Toledo,31-40 años,41-50 años,1
+2017,Primero,Febrero,Barcelona,31-40 años,51-60 años,1
+2017,Primero,Febrero,Barcelona,71-84 años,71-84 años,1
+2017,Primero,Febrero,Alicante/Alacant,71-84 años,>=85 años,1
+2017,Primero,Febrero,Valencia/València,41-50 años,31-40 años,1
+2017,Primero,Febrero,Valencia/València,41-50 años,51-60 años,1
+2017,Primero,Febrero,Badajoz,>=85 años,>=85 años,1
+2017,Primero,Febrero,Pontevedra,51-60 años,41-50 años,1
+2017,Primero,Marzo,Las Palmas,21-30 años,31-40 años,1
+2017,Primero,Marzo,Ciudad Real,41-50 años,41-50 años,1
+2017,Primero,Marzo,Madrid,31-40 años,31-40 años,1
+2017,Segundo,Abril,Almería,21-30 años,21-30 años,1
+2017,Segundo,Abril,Sevilla,31-40 años,31-40 años,1
+2017,Segundo,Abril,Santa Cruz de Tenerife,41-50 años,31-40 años,1
+2017,Segundo,Abril,Barcelona,41-50 años,31-40 años,1
+2017,Segundo,Mayo,Barcelona,41-50 años,41-50 años,1
+2017,Segundo,Mayo,Madrid,21-30 años,31-40 años,1
+2017,Segundo,Mayo,Madrid,31-40 años,41-50 años,1
+2017,Segundo,Mayo,Madrid,41-50 años,31-40 años,1
+2017,Segundo,Mayo,Madrid,51-60 años,51-60 años,1
+2017,Segundo,Mayo,Murcia,31-40 años,41-50 años,1
+2017,Segundo,Junio,Granada,51-60 años,41-50 años,1
+2017,Segundo,Junio,Sevilla,31-40 años,51-60 años,1
+2017,Segundo,Junio,Las Palmas,41-50 años,71-84 años,1
+2017,Segundo,Junio,Tarragona,21-30 años,41-50 años,1
+2017,Tercero,Julio,Granada,61-70 años,61-70 años,1
+2017,Tercero,Julio,Valencia/València,31-40 años,31-40 años,1
+2017,Tercero,Agosto,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2017,Tercero,Agosto,Madrid,51-60 años,61-70 años,1
+2017,Tercero,Agosto,Murcia,41-50 años,41-50 años,1
+2017,Tercero,Septiembre,Murcia,18-20 años,21-30 años,1
+2017,Tercero,Septiembre,Bizkaia,31-40 años,31-40 años,1
+2017,Cuarto,Octubre,Almería,31-40 años,31-40 años,1
+2017,Cuarto,Octubre,Santa Cruz de Tenerife,21-30 años,41-50 años,1
+2017,Cuarto,Octubre,Barcelona,21-30 años,31-40 años,1
+2017,Cuarto,Octubre,Barcelona,61-70 años,61-70 años,1
+2017,Cuarto,Octubre,Araba/Álava,41-50 años,41-50 años,1
+2017,Cuarto,Noviembre,Alicante/Alacant,21-30 años,31-40 años,1
+2017,Cuarto,Noviembre,Castellón/Castelló,31-40 años,31-40 años,1
+2017,Cuarto,Noviembre,Valencia/València,51-60 años,31-40 años,1
+2017,Cuarto,Diciembre,Guadalajara,31-40 años,31-40 años,1
+2017,Cuarto,Diciembre,Barcelona,21-30 años,31-40 años,1
+2017,Cuarto,Diciembre,Castellón/Castelló,18-20 años,21-30 años,1
+2018,Primero,Enero,Santa Cruz de Tenerife,41-50 años,61-70 años,1
+2018,Primero,Enero,Toledo,>=85 años,>=85 años,1
+2018,Primero,Febrero,Granada,51-60 años,61-70 años,1
+2018,Primero,Febrero,Málaga,41-50 años,41-50 años,1
+2018,Primero,Marzo,Almería,41-50 años,31-40 años,1
+2018,Primero,Marzo,Asturias,41-50 años,41-50 años,1
+2018,Primero,Marzo,Toledo,41-50 años,31-40 años,1
+2018,Segundo,Abril,Burgos,31-40 años,31-40 años,1
+2018,Segundo,Abril,Girona,31-40 años,41-50 años,1
+2018,Segundo,Abril,Murcia,31-40 años,41-50 años,1
+2018,Segundo,Abril,Araba/Álava,41-50 años,41-50 años,1
+2018,Segundo,Mayo,Granada,21-30 años,21-30 años,1
+2018,Segundo,Junio,Granada,41-50 años,51-60 años,1
+2018,Segundo,Junio,Zaragoza,31-40 años,31-40 años,1
+2018,Segundo,Junio,Illes Balears,31-40 años,31-40 años,1
+2018,Segundo,Junio,Las Palmas,41-50 años,61-70 años,1
+2018,Segundo,Junio,Barcelona,31-40 años,41-50 años,1
+2018,Segundo,Junio,Pontevedra,41-50 años,51-60 años,1
+2018,Tercero,Julio,Huelva,21-30 años,31-40 años,1
+2018,Tercero,Julio,Asturias,71-84 años,>=85 años,1
+2018,Tercero,Julio,Santa Cruz de Tenerife,31-40 años,41-50 años,1
+2018,Tercero,Julio,León,51-60 años,61-70 años,1
+2018,Tercero,Julio,Barcelona,21-30 años,31-40 años,1
+2018,Tercero,Julio,A Coruña,51-60 años,51-60 años,1
+2018,Tercero,Julio,Madrid,41-50 años,41-50 años,1
+2018,Tercero,Julio,Madrid,41-50 años,51-60 años,1
+2018,Tercero,Agosto,Granada,18-20 años,31-40 años,1
+2018,Tercero,Agosto,Barcelona,31-40 años,21-30 años,1
+2018,Tercero,Agosto,Barcelona,41-50 años,51-60 años,1
+2018,Tercero,Agosto,Barcelona,71-84 años,71-84 años,1
+2018,Tercero,Agosto,Alicante/Alacant,51-60 años,51-60 años,1
+2018,Tercero,Agosto,A Coruña,41-50 años,51-60 años,1
+2018,Tercero,Agosto,Madrid,21-30 años,41-50 años,1
+2018,Tercero,Agosto,Navarra,31-40 años,41-50 años,1
+2018,Tercero,Septiembre,Almería,21-30 años,21-30 años,1
+2018,Tercero,Septiembre,Granada,31-40 años,41-50 años,1
+2018,Tercero,Septiembre,Jaén,41-50 años,51-60 años,1
+2018,Tercero,Septiembre,Málaga,41-50 años,41-50 años,1
+2018,Tercero,Septiembre,Zaragoza,61-70 años,61-70 años,1
+2018,Tercero,Septiembre,Asturias,21-30 años,51-60 años,1
+2018,Tercero,Septiembre,Barcelona,61-70 años,71-84 años,1
+2018,Tercero,Septiembre,Castellón/Castelló,31-40 años,31-40 años,1
+2018,Tercero,Septiembre,Madrid,31-40 años,41-50 años,1
+2018,Tercero,Septiembre,Bizkaia,21-30 años,31-40 años,1
+2018,Cuarto,Octubre,Sevilla,31-40 años,51-60 años,1
+2018,Cuarto,Octubre,Girona,41-50 años,51-60 años,1
+2018,Cuarto,Octubre,Madrid,61-70 años,61-70 años,1
+2018,Cuarto,Octubre,Navarra,41-50 años,41-50 años,1
+2018,Cuarto,Noviembre,Huesca,41-50 años,41-50 años,1
+2018,Cuarto,Noviembre,Illes Balears,31-40 años,41-50 años,1
+2018,Cuarto,Diciembre,Huesca,71-84 años,>=85 años,1
+2018,Cuarto,Diciembre,Barcelona,51-60 años,51-60 años,1
+2018,Cuarto,Diciembre,Murcia,51-60 años,51-60 años,1
+2019,Primero,Enero,Málaga,41-50 años,41-50 años,1
+2019,Primero,Enero,Sevilla,61-70 años,61-70 años,1
+2019,Primero,Enero,Zaragoza,41-50 años,41-50 años,1
+2019,Primero,Enero,Las Palmas,21-30 años,41-50 años,1
+2019,Primero,Enero,Santa Cruz de Tenerife,41-50 años,51-60 años,1
+2019,Primero,Enero,Cantabria,21-30 años,21-30 años,1
+2019,Primero,Enero,León,>=85 años,>=85 años,1
+2019,Primero,Enero,Tarragona,16-17 años,18-20 años,1
+2019,Primero,Febrero,Santa Cruz de Tenerife,51-60 años,51-60 años,1
+2019,Primero,Febrero,Alicante/Alacant,21-30 años,31-40 años,1
+2019,Primero,Febrero,Madrid,21-30 años,41-50 años,1
+2019,Primero,Marzo,Málaga,51-60 años,51-60 años,1
+2019,Primero,Marzo,Pontevedra,41-50 años,41-50 años,1
+2019,Primero,Marzo,Madrid,31-40 años,41-50 años,1
+2019,Primero,Marzo,Madrid,61-70 años,71-84 años,1
+2019,Segundo,Abril,Jaén,31-40 años,41-50 años,1
+2019,Segundo,Abril,Las Palmas,41-50 años,41-50 años,1
+2019,Segundo,Abril,Santa Cruz de Tenerife,31-40 años,41-50 años,1
+2019,Segundo,Abril,Girona,41-50 años,31-40 años,1
+2019,Segundo,Abril,Alicante/Alacant,31-40 años,41-50 años,1
+2019,Segundo,Abril,Castellón/Castelló,21-30 años,21-30 años,1
+2019,Segundo,Mayo,Las Palmas,31-40 años,41-50 años,1
+2019,Segundo,Mayo,Madrid,41-50 años,31-40 años,1
+2019,Segundo,Mayo,Murcia,41-50 años,31-40 años,1
+2019,Segundo,Junio,Cádiz,51-60 años,41-50 años,1
+2019,Segundo,Junio,Córdoba,41-50 años,41-50 años,1
+2019,Segundo,Junio,Córdoba,41-50 años,51-60 años,1
+2019,Segundo,Junio,Huelva,21-30 años,51-60 años,1
+2019,Segundo,Junio,Málaga,31-40 años,31-40 años,1
+2019,Segundo,Junio,Barcelona,41-50 años,41-50 años,1
+2019,Segundo,Junio,Valencia/València,21-30 años,41-50 años,1
+2019,Tercero,Julio,Almería,31-40 años,41-50 años,1
+2019,Tercero,Julio,Córdoba,41-50 años,41-50 años,1
+2019,Tercero,Julio,Málaga,41-50 años,61-70 años,1
+2019,Tercero,Julio,Cantabria,51-60 años,51-60 años,1
+2019,Tercero,Julio,Burgos,21-30 años,31-40 años,1
+2019,Tercero,Julio,Burgos,51-60 años,51-60 años,1
+2019,Tercero,Julio,Barcelona,41-50 años,41-50 años,1
+2019,Tercero,Julio,Alicante/Alacant,41-50 años,41-50 años,1
+2019,Tercero,Julio,Alicante/Alacant,51-60 años,61-70 años,1
+2019,Tercero,Julio,Lugo,41-50 años,41-50 años,1
+2019,Tercero,Agosto,Jaén,71-84 años,71-84 años,1
+2019,Tercero,Agosto,Santa Cruz de Tenerife,51-60 años,51-60 años,1
+2019,Tercero,Agosto,Barcelona,21-30 años,21-30 años,1
+2019,Tercero,Agosto,Madrid,41-50 años,41-50 años,1
+2019,Tercero,Septiembre,Illes Balears,51-60 años,51-60 años,1
+2019,Tercero,Septiembre,Las Palmas,41-50 años,41-50 años,1
+2019,Tercero,Septiembre,Pontevedra,31-40 años,41-50 años,1
+2019,Tercero,Septiembre,Madrid,31-40 años,41-50 años,1
+2019,Cuarto,Octubre,Granada,31-40 años,41-50 años,1
+2019,Cuarto,Octubre,Barcelona,21-30 años,21-30 años,1
+2019,Cuarto,Octubre,Barcelona,41-50 años,51-60 años,1
+2019,Cuarto,Octubre,Alicante/Alacant,41-50 años,41-50 años,1
+2019,Cuarto,Noviembre,Córdoba,>=85 años,>=85 años,1
+2019,Cuarto,Noviembre,Santa Cruz de Tenerife,21-30 años,21-30 años,1
+2019,Cuarto,Diciembre,Barcelona,41-50 años,41-50 años,1
+2020,Primero,Enero,Granada,71-84 años,71-84 años,1
+2020,Primero,Enero,Ciudad Real,61-70 años,51-60 años,1
+2020,Primero,Enero,Toledo,41-50 años,41-50 años,1
+2020,Primero,Enero,Barcelona,21-30 años,21-30 años,1
+2020,Primero,Enero,Barcelona,21-30 años,41-50 años,1
+2020,Primero,Enero,Barcelona,41-50 años,41-50 años,1
+2020,Primero,Enero,Lugo,71-84 años,71-84 años,1
+2020,Primero,Enero,Ourense,21-30 años,21-30 años,1
+2020,Primero,Febrero,Granada,31-40 años,21-30 años,1
+2020,Primero,Febrero,Sevilla,31-40 años,31-40 años,1
+2020,Primero,Febrero,Sevilla,41-50 años,51-60 años,1
+2020,Primero,Febrero,Asturias,41-50 años,41-50 años,1
+2020,Primero,Febrero,Alicante/Alacant,31-40 años,51-60 años,1
+2020,Primero,Febrero,Lugo,41-50 años,41-50 años,1
+2020,Primero,Febrero,Madrid,71-84 años,71-84 años,1
+2020,Primero,Marzo,Córdoba,61-70 años,61-70 años,1
+2020,Primero,Marzo,Castellón/Castelló,31-40 años,31-40 años,1
+2020,Primero,Marzo,Valencia/València,31-40 años,21-30 años,1
+2020,Primero,Marzo,Bizkaia,51-60 años,51-60 años,1
+2020,Segundo,Abril,Las Palmas,71-84 años,61-70 años,1
+2020,Segundo,Mayo,Barcelona,51-60 años,51-60 años,1
+2020,Segundo,Mayo,Girona,61-70 años,71-84 años,1
+2020,Segundo,Junio,Jaén,41-50 años,51-60 años,1
+2020,Segundo,Junio,Alicante/Alacant,71-84 años,71-84 años,1
+2020,Tercero,Julio,Illes Balears,51-60 años,51-60 años,1
+2020,Tercero,Julio,Santa Cruz de Tenerife,41-50 años,41-50 años,1
+2020,Tercero,Julio,Barcelona,18-20 años,31-40 años,1
+2020,Tercero,Julio,Madrid,31-40 años,31-40 años,1
+2020,Tercero,Agosto,Cádiz,41-50 años,41-50 años,1
+2020,Tercero,Agosto,Cantabria,21-30 años,21-30 años,1
+2020,Tercero,Agosto,Segovia,31-40 años,41-50 años,1
+2020,Tercero,Agosto,Albacete,71-84 años,71-84 años,1
+2020,Tercero,Agosto,Barcelona,41-50 años,21-30 años,1
+2020,Tercero,Agosto,Valencia/València,31-40 años,21-30 años,1
+2020,Tercero,Agosto,Murcia,31-40 años,41-50 años,1
+2020,Tercero,Agosto,Murcia,61-70 años,61-70 años,1
+2020,Tercero,Septiembre,Cádiz,41-50 años,21-30 años,1
+2020,Tercero,Septiembre,Cádiz,51-60 años,51-60 años,1
+2020,Tercero,Septiembre,Santa Cruz de Tenerife,41-50 años,31-40 años,1
+2020,Tercero,Septiembre,Valencia/València,21-30 años,21-30 años,1
+2020,Cuarto,Octubre,Illes Balears,31-40 años,31-40 años,1
+2020,Cuarto,Octubre,La Rioja,51-60 años,51-60 años,1
+2020,Cuarto,Noviembre,Sevilla,71-84 años,>=85 años,1
+2020,Cuarto,Noviembre,Illes Balears,31-40 años,31-40 años,1
+2020,Cuarto,Noviembre,Girona,41-50 años,51-60 años,1
+2020,Cuarto,Diciembre,Las Palmas,61-70 años,41-50 años,1
+2020,Cuarto,Diciembre,Ciudad Real,41-50 años,41-50 años,1
+2020,Cuarto,Diciembre,Valencia/València,51-60 años,61-70 años,1
+2020,Cuarto,Diciembre,Pontevedra,51-60 años,61-70 años,1
+2020,Cuarto,Diciembre,Madrid,21-30 años,31-40 años,1
+2021,Primero,Enero,Madrid,71-84 años,71-84 años,1
+2021,Primero,Febrero,Valladolid,41-50 años,41-50 años,1
+2021,Primero,Febrero,Madrid,51-60 años,61-70 años,1
+2021,Primero,Febrero,Bizkaia,51-60 años,51-60 años,1
+2021,Primero,Marzo,Madrid,41-50 años,41-50 años,2
+2021,Segundo,Abril,León,31-40 años,21-30 años,1
+2021,Segundo,Abril,Barcelona,31-40 años,31-40 años,1
+2021,Segundo,Abril,Tarragona,41-50 años,31-40 años,1
+2021,Segundo,Abril,Castellón/Castelló,41-50 años,51-60 años,1
+2021,Segundo,Mayo,Zaragoza,31-40 años,31-40 años,1
+2021,Segundo,Mayo,Asturias,41-50 años,51-60 años,1
+2021,Segundo,Mayo,Illes Balears,21-30 años,31-40 años,1
+2021,Segundo,Mayo,Guadalajara,31-40 años,51-60 años,1
+2021,Segundo,Mayo,Barcelona,41-50 años,41-50 años,1
+2021,Segundo,Mayo,Tarragona,51-60 años,51-60 años,1
+2021,Segundo,Mayo,Valencia/València,51-60 años,51-60 años,1
+2021,Segundo,Junio,Almería,41-50 años,31-40 años,1
+2021,Segundo,Junio,Jaén,31-40 años,31-40 años,1
+2021,Segundo,Junio,Sevilla,16-17 años,21-30 años,1
+2021,Segundo,Junio,Huesca,31-40 años,41-50 años,1
+2021,Segundo,Junio,Illes Balears,21-30 años,21-30 años,1
+2021,Segundo,Junio,Salamanca,31-40 años,61-70 años,1
+2021,Segundo,Junio,Valladolid,51-60 años,51-60 años,1
+2021,Segundo,Junio,Girona,41-50 años,41-50 años,1
+2021,Segundo,Junio,Madrid,51-60 años,61-70 años,1
+2021,Segundo,Junio,Madrid,71-84 años,71-84 años,1
+2021,Tercero,Julio,Málaga,41-50 años,51-60 años,1
+2021,Tercero,Julio,Barcelona,21-30 años,31-40 años,1
+2021,Tercero,Julio,Barcelona,31-40 años,41-50 años,1
+2021,Tercero,Julio,Tarragona,21-30 años,51-60 años,1
+2021,Tercero,Julio,Madrid,71-84 años,71-84 años,1
+2021,Tercero,Julio,Navarra,41-50 años,41-50 años,1
+2021,Tercero,Agosto,Málaga,31-40 años,51-60 años,1
+2021,Tercero,Agosto,Sevilla,51-60 años,61-70 años,1
+2021,Tercero,Agosto,Barcelona,21-30 años,31-40 años,1
+2021,Tercero,Septiembre,Alicante/Alacant,31-40 años,51-60 años,1
+2021,Tercero,Septiembre,A Coruña,51-60 años,41-50 años,1
+2021,Cuarto,Octubre,Alicante/Alacant,61-70 años,61-70 años,1
+2021,Cuarto,Octubre,Araba/Álava,31-40 años,41-50 años,1
+2021,Cuarto,Noviembre,Cádiz,31-40 años,41-50 años,1
+2021,Cuarto,Diciembre,Cádiz,31-40 años,51-60 años,1
+2021,Cuarto,Diciembre,Granada,31-40 años,41-50 años,1
+2021,Cuarto,Diciembre,Cantabria,31-40 años,41-50 años,1
+2021,Cuarto,Diciembre,Barcelona,51-60 años,41-50 años,1
+2021,Cuarto,Diciembre,Girona,61-70 años,61-70 años,1
+2021,Cuarto,Diciembre,Alicante/Alacant,21-30 años,21-30 años,1
+2021,Cuarto,Diciembre,Alicante/Alacant,31-40 años,31-40 años,1
+2021,Cuarto,Diciembre,Valencia/València,21-30 años,31-40 años,1
+2022,Primero,Enero,Granada,41-50 años,41-50 años,1
+2022,Primero,Enero,Navarra,31-40 años,41-50 años,1
+2022,Primero,Febrero,Barcelona,51-60 años,51-60 años,1
+2022,Primero,Febrero,Murcia,16-17 años,18-20 años,1
+2022,Primero,Marzo,Málaga,31-40 años,31-40 años,1
+2022,Primero,Marzo,Toledo,41-50 años,41-50 años,1
+2022,Primero,Marzo,Barcelona,21-30 años,31-40 años,1
+2022,Primero,Marzo,Madrid,31-40 años,41-50 años,1
+2022,Primero,Marzo,Ceuta,41-50 años,41-50 años,1
+2022,Segundo,Abril,Sevilla,41-50 años,41-50 años,1
+2022,Segundo,Abril,Cuenca,41-50 años,41-50 años,1
+2022,Segundo,Abril,Toledo,41-50 años,41-50 años,1
+2022,Segundo,Abril,Barcelona,41-50 años,41-50 años,1
+2022,Segundo,Abril,Girona,51-60 años,51-60 años,1
+2022,Segundo,Mayo,Almería,41-50 años,51-60 años,1
+2022,Segundo,Mayo,Córdoba,21-30 años,21-30 años,1
+2022,Segundo,Mayo,Málaga,41-50 años,51-60 años,1
+2022,Segundo,Mayo,Santa Cruz de Tenerife,71-84 años,71-84 años,1
+2022,Segundo,Mayo,Ciudad Real,41-50 años,41-50 años,1
+2022,Segundo,Mayo,Cuenca,41-50 años,31-40 años,1
+2022,Segundo,Junio,Sevilla,51-60 años,41-50 años,1
+2022,Segundo,Junio,Soria,31-40 años,31-40 años,1
+2022,Segundo,Junio,Valencia/València,51-60 años,41-50 años,1
+2022,Segundo,Junio,Madrid,41-50 años,51-60 años,1
+2022,Tercero,Julio,Granada,41-50 años,51-60 años,1
+2022,Tercero,Julio,Santa Cruz de Tenerife,31-40 años,31-40 años,1
+2022,Tercero,Julio,Madrid,18-20 años,18-20 años,1
+2022,Tercero,Agosto,Sevilla,41-50 años,41-50 años,1
+2022,Tercero,Agosto,Valladolid,51-60 años,41-50 años,1
+2022,Tercero,Agosto,Madrid,18-20 años,41-50 años,1
+2022,Tercero,Septiembre,Zaragoza,71-84 años,71-84 años,1
+2022,Tercero,Septiembre,Palencia,31-40 años,31-40 años,1
+2022,Tercero,Septiembre,Barcelona,51-60 años,71-84 años,1
+2022,Tercero,Septiembre,Girona,21-30 años,31-40 años,1
+2022,Tercero,Septiembre,Alicante/Alacant,61-70 años,71-84 años,1
+2022,Cuarto,Octubre,Alicante/Alacant,21-30 años,21-30 años,1
+2022,Cuarto,Noviembre,Málaga,61-70 años,71-84 años,1
+2022,Cuarto,Noviembre,Cáceres,21-30 años,41-50 años,1
+2022,Cuarto,Noviembre,Madrid,21-30 años,31-40 años,1
+2022,Cuarto,Diciembre,Sevilla,31-40 años,41-50 años,1
+2022,Cuarto,Diciembre,Zaragoza,71-84 años,71-84 años,1
+2022,Cuarto,Diciembre,Asturias,31-40 años,51-60 años,1
+2022,Cuarto,Diciembre,Albacete,41-50 años,41-50 años,1
+2022,Cuarto,Diciembre,Toledo,31-40 años,51-60 años,1
+2022,Cuarto,Diciembre,Barcelona,>=85 años,61-70 años,1
+2022,Cuarto,Diciembre,Lleida,31-40 años,31-40 años,1
+2022,Cuarto,Diciembre,Madrid,18-20 años,31-40 años,1
+2022,Cuarto,Diciembre,Madrid,61-70 años,61-70 años,1
+2022,Cuarto,Diciembre,Murcia,51-60 años,61-70 años,1
+2022,Cuarto,Diciembre,Bizkaia,41-50 años,41-50 años,1
+2023,Primero,Enero,Cádiz,41-50 años,31-40 años,1
+2023,Primero,Enero,Cádiz,61-70 años,61-70 años,1
+2023,Primero,Enero,Málaga,41-50 años,41-50 años,1
+2023,Primero,Enero,Santa Cruz de Tenerife,41-50 años,41-50 años,1
+2023,Primero,Enero,Valladolid,41-50 años,41-50 años,1
+2023,Primero,Enero,Ciudad Real,21-30 años,21-30 años,1
+2023,Primero,Enero,Lleida,31-40 años,41-50 años,1
+2023,Primero,Febrero,Sevilla,16-17 años,21-30 años,1
+2023,Primero,Febrero,Pontevedra,41-50 años,41-50 años,1
+2023,Primero,Marzo,Zaragoza,31-40 años,51-60 años,1
+2023,Primero,Marzo,Alicante/Alacant,61-70 años,61-70 años,1
+2023,Segundo,Abril,Cádiz,31-40 años,41-50 años,1
+2023,Segundo,Abril,Huelva,31-40 años,31-40 años,1
+2023,Segundo,Abril,Las Palmas,41-50 años,41-50 años,1
+2023,Segundo,Abril,Ávila,71-84 años,71-84 años,1
+2023,Segundo,Mayo,Granada,31-40 años,41-50 años,1
+2023,Segundo,Mayo,Málaga,21-30 años,41-50 años,1
+2023,Segundo,Mayo,Barcelona,31-40 años,21-30 años,1
+2023,Segundo,Mayo,Madrid,31-40 años,51-60 años,1
+2023,Segundo,Mayo,Araba/Álava,31-40 años,31-40 años,1
+2023,Segundo,Mayo,Gipuzkoa,41-50 años,41-50 años,1
+2023,Segundo,Junio,Barcelona,31-40 años,21-30 años,1
+2023,Segundo,Junio,Barcelona,31-40 años,31-40 años,1
+2023,Segundo,Junio,Pontevedra,41-50 años,41-50 años,1
+2023,Segundo,Junio,Madrid,31-40 años,41-50 años,1
+2023,Tercero,Julio,Málaga,51-60 años,61-70 años,1
+2023,Tercero,Julio,Sevilla,21-30 años,41-50 años,1
+2023,Tercero,Julio,Barcelona,21-30 años,31-40 años,1
+2023,Tercero,Julio,Girona,21-30 años,21-30 años,1
+2023,Tercero,Julio,Tarragona,31-40 años,21-30 años,1
+2023,Tercero,Julio,Valencia/València,31-40 años,51-60 años,1
+2023,Tercero,Julio,Navarra,41-50 años,51-60 años,1
+2023,Tercero,Julio,La Rioja,31-40 años,41-50 años,1
+2023,Tercero,Agosto,Almería,21-30 años,31-40 años,1
+2023,Tercero,Agosto,Cádiz,61-70 años,71-84 años,1
+2023,Tercero,Agosto,Córdoba,31-40 años,31-40 años,1
+2023,Tercero,Agosto,Santa Cruz de Tenerife,>=85 años,>=85 años,1
+2023,Tercero,Agosto,Salamanca,31-40 años,41-50 años,1
+2023,Tercero,Agosto,Valencia/València,51-60 años,61-70 años,1
+2023,Tercero,Agosto,Madrid,51-60 años,61-70 años,1
+2023,Tercero,Septiembre,Granada,31-40 años,41-50 años,1
+2023,Tercero,Septiembre,Jaén,51-60 años,51-60 años,1
+2023,Tercero,Septiembre,Sevilla,41-50 años,41-50 años,1
+2023,Tercero,Septiembre,Toledo,41-50 años,41-50 años,1
+2023,Tercero,Septiembre,Girona,71-84 años,71-84 años,1
+2023,Tercero,Septiembre,Tarragona,41-50 años,41-50 años,1
+2023,Tercero,Septiembre,Alicante/Alacant,71-84 años,71-84 años,1
+2023,Tercero,Septiembre,Castellón/Castelló,51-60 años,51-60 años,1
+2023,Tercero,Septiembre,Madrid,31-40 años,21-30 años,1
+2023,Tercero,Septiembre,Murcia,31-40 años,41-50 años,1
+2023,Cuarto,Octubre,Málaga,51-60 años,61-70 años,1
+2023,Cuarto,Noviembre,Madrid,31-40 años,41-50 años,1
