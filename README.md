@@ -1,4 +1,4 @@
-# Proyecto de visualización - Tableau Desktop
+# PROYECTO DE VISUALIZACIÓN-TABLEAU
 # El impacto de la violencia de género en España
 ![](https://github.com/NoeRoson/Project_Visualization/blob/main/img/Portada_readme.png)
 
